@@ -1,0 +1,1 @@
+var e;(function(e){e[e.PointerMove=0]=`PointerMove`,e[e.PointerDown=1]=`PointerDown`,e[e.PointerUp=2]=`PointerUp`})(e||={});var t=class{};t.DOM_DELTA_PIXEL=0,t.DOM_DELTA_LINE=1,t.DOM_DELTA_PAGE=2;export{t};
