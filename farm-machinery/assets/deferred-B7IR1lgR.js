@@ -1,1 +1,0 @@
-var e=class{get resolve(){return this._resolve}get reject(){return this._reject}constructor(){this.promise=new Promise((e,t)=>{this._resolve=e,this._reject=t})}};export{e as t};

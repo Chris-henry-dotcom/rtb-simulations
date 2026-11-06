@@ -1,1 +1,0 @@
-var e=`KHR_mesh_quantization`,t=class{constructor(t){this.name=e,this.enabled=t.isExtensionUsed(e)}dispose(){}};export{t as KHR_mesh_quantization};
